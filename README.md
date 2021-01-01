@@ -12,4 +12,4 @@
 - CSS 3 | flexbox
 
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/76bd2f50-614e-4124-b29e-750320a1d4c4/deploy-status)](https://app.netlify.com/sites/brafe-css/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/76bd2f50-614e-4124-b29e-750320a1d4c4/deploy-status)](https://brafe-css.netlify.app/)
